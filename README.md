@@ -16,14 +16,14 @@ Metrics used to evaluate the performance of models:
  * Recall
  * F1 Score 
  
- We evaluate each classifier's ability to select the appropriate category given an article’s title and a brief article description. The confusion matrix is created to  explore the results and calculate the metrics. 
+ We evaluate each classifier's ability to select the appropriate category given an articleâ€™s title and a brief article description. The confusion matrix is created to  explore the results and calculate the metrics. 
 
 
 
 ###### Feature Extraction Techniques:
 The collection of text documents is converted to a matrix of token counts using count vectorize that produces a sparse representation of the counts.
 
-TFIDF,term frequency–inverse document frequency, is the statistic that is intended to reflect how important a word is to a document in our corpus. This is used to extract the most meaningful words in the Corpus.
+TFIDF,term frequencyâ€“inverse document frequency, is the statistic that is intended to reflect how important a word is to a document in our corpus. This is used to extract the most meaningful words in the Corpus.
 corpus ( Collection of written texts,words etc. )
 
 
@@ -43,8 +43,10 @@ Packages required:
  
 1.Open Cmd   
 2.Open Jupyter Notebook by Typing Jupyter Notebook in cmd. (See Installation details for Jupyter if not already Installed!!)   
-3.Open News Classification.ipynb   
-4.Run the program blocks one at a time for clear visuallization and categorization of our implementation for classifying news headlines   
+3.open News Classification.ipynb   
+4.Run the program blocks one at a time for clear visuallization and categorization of our implementation for classifying news headlines  
+link for docs ![https://docs.google.com/document/d/1VptDVOIk1nrRSKbRwtTzWb26rauhiZwLNMaqw4zOfcw/edit?usp=sharing]  
+
 
 
 
