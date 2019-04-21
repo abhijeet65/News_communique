@@ -49,23 +49,23 @@ link for docs ![https://docs.google.com/document/d/1VptDVOIk1nrRSKbRwtTzWb26rauh
 
 
 
-#####Contributions:
+Contributions:
 
-###Algorithm Implementation
+Algorithm Implementation
 
 * Neural Network-Abhijeet Saraf
 * Multinomial Naive Bayes-Vishrut Vats
 * Support Vector Machines-Abhishek Kumar Mandal
 
-###Documentation:
+Documentation:
 
 * Abhijeet Saraf and Vishrut Vats
 
-###Debugging:
+Debugging:
 
 * Abhishek Kumar Mandal and Vishrut Vats
 
-#Visualization:
+Visualization:
 
 * Abhijeet Saraf
 
