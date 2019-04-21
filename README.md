@@ -49,7 +49,7 @@ link for docs ![https://docs.google.com/document/d/1VptDVOIk1nrRSKbRwtTzWb26rauh
 
 
 
-Contributions:
+**Contributions:
 
 Algorithm Implementation
 
