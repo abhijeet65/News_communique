@@ -47,7 +47,7 @@ Packages required:
 4.Run the program blocks one at a time for clear visuallization and categorization of our implementation for classifying news headlines  
 link for docs ![https://docs.google.com/document/d/1VptDVOIk1nrRSKbRwtTzWb26rauhiZwLNMaqw4zOfcw/edit?usp=sharing]  
 
-##Contributions
+##Contributions:
 
 #Algorithm Implementation
 
@@ -55,15 +55,15 @@ link for docs ![https://docs.google.com/document/d/1VptDVOIk1nrRSKbRwtTzWb26rauh
 * Multinomial Naive Bayes-Vishrut Vats
 * Support Vector Machines-Abhishek Kumar Mandal
 
-#Documentation
+#Documentation:
 
 * Abhijeet Saraf and Vishrut Vats
 
-#Debugging
+#Debugging:
 
 * Abhishek Kumar Mandal and Vishrut Vats
 
-#Visualization
+#Visualization:
 
 * Abhijeet Saraf
 
